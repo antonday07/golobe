@@ -1,0 +1,20 @@
+export enum ROUTES {
+    HOMEPAGE='/',
+    HOME = '/home',
+    LOGIN = '/login',
+    PROFILE = '/profile',
+    PROFILE_PUBLIC = '/profile-public',
+    NOTIFICATIONS = '/notification',
+    MESSAGE = '/messages',
+    BOOKMARKS = '/bookmarks',
+    VAULTS= '/vaults',
+    QUEUE = '/queue',
+    LIST = '/lists',
+    MY_CARD = '/payment-card/my-card',
+    STATEMENTS = '/statements',
+    STATISTICS = '/statistics',
+    RESET_PASS = '/reset-pass',
+    ADD_CARD = 'add-card',
+    REGISTER = 'register',
+  }
+    
